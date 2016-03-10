@@ -247,6 +247,7 @@
 				TargetAttributes = {
 					9A9E33021C9164CF00E5BE10 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = 4NN44SZ65T;
 					};
 					9A9E33161C9164D000E5BE10 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -465,9 +466,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = SNStest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.karin.SNStest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.karin.snstest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -476,9 +478,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = SNStest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.karin.SNStest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.karin.snstest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
