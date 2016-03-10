@@ -1,3 +1,5 @@
+Game Center のログイン認証の設定・組み込み
+
 # SNStest
 //MARK: GameCenter Login　のためのコード
 
