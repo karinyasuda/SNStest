@@ -14,6 +14,21 @@
 		9A9E33111C9164D000E5BE10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E330F1C9164D000E5BE10 /* LaunchScreen.storyboard */; };
 		9A9E331C1C9164D000E5BE10 /* SNStestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9E331B1C9164D000E5BE10 /* SNStestTests.swift */; };
 		9A9E33271C9164D000E5BE10 /* SNStestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9E33261C9164D000E5BE10 /* SNStestUITests.swift */; };
+		9A9E33401C9167DC00E5BE10 /* dog1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E33341C9167DC00E5BE10 /* dog1.JPG */; };
+		9A9E33411C9167DC00E5BE10 /* dog2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E33351C9167DC00E5BE10 /* dog2.jpg */; };
+		9A9E33421C9167DC00E5BE10 /* dog3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E33361C9167DC00E5BE10 /* dog3.jpg */; };
+		9A9E33431C9167DC00E5BE10 /* dog4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E33371C9167DC00E5BE10 /* dog4.jpg */; };
+		9A9E33441C9167DC00E5BE10 /* dog5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E33381C9167DC00E5BE10 /* dog5.jpg */; };
+		9A9E33451C9167DC00E5BE10 /* dog6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E33391C9167DC00E5BE10 /* dog6.jpg */; };
+		9A9E33461C9167DC00E5BE10 /* food1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E333A1C9167DC00E5BE10 /* food1.jpg */; };
+		9A9E33471C9167DC00E5BE10 /* nature1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E333B1C9167DC00E5BE10 /* nature1.jpg */; };
+		9A9E33481C9167DC00E5BE10 /* nature2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E333C1C9167DC00E5BE10 /* nature2.jpg */; };
+		9A9E33491C9167DC00E5BE10 /* sweet1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E333D1C9167DC00E5BE10 /* sweet1.jpg */; };
+		9A9E334A1C9167DC00E5BE10 /* sweet2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E333E1C9167DC00E5BE10 /* sweet2.jpg */; };
+		9A9E334B1C9167DC00E5BE10 /* tomo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E333F1C9167DC00E5BE10 /* tomo1.jpg */; };
+		9A9E334E1C9173A800E5BE10 /* SNS.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A9E334D1C9173A800E5BE10 /* SNS.png */; };
+		9A9E338A1C91824400E5BE10 /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A9E33891C91824400E5BE10 /* GameKit.framework */; };
+		9A9E338E1C91853500E5BE10 /* GKLocalPlayerUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A9E338D1C91853500E5BE10 /* GKLocalPlayerUtil.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +62,21 @@
 		9A9E33221C9164D000E5BE10 /* SNStestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SNStestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A9E33261C9164D000E5BE10 /* SNStestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SNStestUITests.swift; sourceTree = "<group>"; };
 		9A9E33281C9164D000E5BE10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A9E33341C9167DC00E5BE10 /* dog1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog1.JPG; sourceTree = "<group>"; };
+		9A9E33351C9167DC00E5BE10 /* dog2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog2.jpg; sourceTree = "<group>"; };
+		9A9E33361C9167DC00E5BE10 /* dog3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog3.jpg; sourceTree = "<group>"; };
+		9A9E33371C9167DC00E5BE10 /* dog4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog4.jpg; sourceTree = "<group>"; };
+		9A9E33381C9167DC00E5BE10 /* dog5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog5.jpg; sourceTree = "<group>"; };
+		9A9E33391C9167DC00E5BE10 /* dog6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog6.jpg; sourceTree = "<group>"; };
+		9A9E333A1C9167DC00E5BE10 /* food1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = food1.jpg; sourceTree = "<group>"; };
+		9A9E333B1C9167DC00E5BE10 /* nature1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature1.jpg; sourceTree = "<group>"; };
+		9A9E333C1C9167DC00E5BE10 /* nature2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nature2.jpg; sourceTree = "<group>"; };
+		9A9E333D1C9167DC00E5BE10 /* sweet1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sweet1.jpg; sourceTree = "<group>"; };
+		9A9E333E1C9167DC00E5BE10 /* sweet2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sweet2.jpg; sourceTree = "<group>"; };
+		9A9E333F1C9167DC00E5BE10 /* tomo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tomo1.jpg; sourceTree = "<group>"; };
+		9A9E334D1C9173A800E5BE10 /* SNS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SNS.png; sourceTree = "<group>"; };
+		9A9E33891C91824400E5BE10 /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		9A9E338D1C91853500E5BE10 /* GKLocalPlayerUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GKLocalPlayerUtil.swift; path = ../../../GKLocalPlayerUtil.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A9E338A1C91824400E5BE10 /* GameKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,6 +108,7 @@
 		9A9E32FA1C9164CF00E5BE10 = {
 			isa = PBXGroup;
 			children = (
+				9A9E33891C91824400E5BE10 /* GameKit.framework */,
 				9A9E33051C9164D000E5BE10 /* SNStest */,
 				9A9E331A1C9164D000E5BE10 /* SNStestTests */,
 				9A9E33251C9164D000E5BE10 /* SNStestUITests */,
@@ -99,6 +131,8 @@
 			children = (
 				9A9E33061C9164D000E5BE10 /* AppDelegate.swift */,
 				9A9E33081C9164D000E5BE10 /* ViewController.swift */,
+				9A9E338D1C91853500E5BE10 /* GKLocalPlayerUtil.swift */,
+				9A9E334C1C9167E800E5BE10 /* images */,
 				9A9E330A1C9164D000E5BE10 /* Main.storyboard */,
 				9A9E330D1C9164D000E5BE10 /* Assets.xcassets */,
 				9A9E330F1C9164D000E5BE10 /* LaunchScreen.storyboard */,
@@ -123,6 +157,26 @@
 				9A9E33281C9164D000E5BE10 /* Info.plist */,
 			);
 			path = SNStestUITests;
+			sourceTree = "<group>";
+		};
+		9A9E334C1C9167E800E5BE10 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9A9E334D1C9173A800E5BE10 /* SNS.png */,
+				9A9E33341C9167DC00E5BE10 /* dog1.JPG */,
+				9A9E33351C9167DC00E5BE10 /* dog2.jpg */,
+				9A9E33361C9167DC00E5BE10 /* dog3.jpg */,
+				9A9E33371C9167DC00E5BE10 /* dog4.jpg */,
+				9A9E33381C9167DC00E5BE10 /* dog5.jpg */,
+				9A9E33391C9167DC00E5BE10 /* dog6.jpg */,
+				9A9E333A1C9167DC00E5BE10 /* food1.jpg */,
+				9A9E333B1C9167DC00E5BE10 /* nature1.jpg */,
+				9A9E333C1C9167DC00E5BE10 /* nature2.jpg */,
+				9A9E333D1C9167DC00E5BE10 /* sweet1.jpg */,
+				9A9E333E1C9167DC00E5BE10 /* sweet2.jpg */,
+				9A9E333F1C9167DC00E5BE10 /* tomo1.jpg */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,8 +284,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A9E33111C9164D000E5BE10 /* LaunchScreen.storyboard in Resources */,
+				9A9E33411C9167DC00E5BE10 /* dog2.jpg in Resources */,
 				9A9E330E1C9164D000E5BE10 /* Assets.xcassets in Resources */,
+				9A9E33461C9167DC00E5BE10 /* food1.jpg in Resources */,
+				9A9E33471C9167DC00E5BE10 /* nature1.jpg in Resources */,
+				9A9E33431C9167DC00E5BE10 /* dog4.jpg in Resources */,
+				9A9E33451C9167DC00E5BE10 /* dog6.jpg in Resources */,
+				9A9E33481C9167DC00E5BE10 /* nature2.jpg in Resources */,
+				9A9E334B1C9167DC00E5BE10 /* tomo1.jpg in Resources */,
+				9A9E33401C9167DC00E5BE10 /* dog1.JPG in Resources */,
+				9A9E33421C9167DC00E5BE10 /* dog3.jpg in Resources */,
+				9A9E33441C9167DC00E5BE10 /* dog5.jpg in Resources */,
+				9A9E33491C9167DC00E5BE10 /* sweet1.jpg in Resources */,
 				9A9E330C1C9164D000E5BE10 /* Main.storyboard in Resources */,
+				9A9E334E1C9173A800E5BE10 /* SNS.png in Resources */,
+				9A9E334A1C9167DC00E5BE10 /* sweet2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +324,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A9E33091C9164D000E5BE10 /* ViewController.swift in Sources */,
+				9A9E338E1C91853500E5BE10 /* GKLocalPlayerUtil.swift in Sources */,
 				9A9E33071C9164D000E5BE10 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -482,6 +550,7 @@
 				9A9E332D1C9164D000E5BE10 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A9E332E1C9164D000E5BE10 /* Build configuration list for PBXNativeTarget "SNStestTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +559,7 @@
 				9A9E33301C9164D000E5BE10 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A9E33311C9164D000E5BE10 /* Build configuration list for PBXNativeTarget "SNStestUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +568,7 @@
 				9A9E33331C9164D000E5BE10 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
